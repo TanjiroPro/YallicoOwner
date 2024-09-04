@@ -24,6 +24,6 @@ href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/YallicoOwner/MegatronBotPro">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YallicoOwner&repo=MegatronBotPro &theme=merko)</a>
+<a href="https://github.com/elrebelde21/LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YallicoOwner&repo=MegatronBotPro&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
