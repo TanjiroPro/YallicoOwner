@@ -2,7 +2,7 @@
 
 ## hola 🤖 Bienvenido, te presento mi perfil ✨
 
-<p align="center"><img title="Yallico" src="https://telegra.ph/file/af9f4baa51fe1f7e53f9c.jpg"></p>
+<p align="center"><img title="Yallico" src="https://telegra.ph/file/5aa294993a972ea6c8a6f.jpg"></p>
 
 <p align="center">
 <img src="https://telegra.ph/file/484bdb77d39e0487a43b3.jpg" alt="MegatronBotPro" width="900"/>
@@ -22,8 +22,8 @@ href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
 </a>
 
 </div>
-<h2 align="center"> MIS PROYECTOS </h2>
+<h2 align="center"> MI PROYECTO </h2>
 
-<a href="https://github.com/elrebelde21/LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YallicoOwner&repo=MegatronBotPro&theme=merko)</a>
+<a href="https://github.com/YallicoOwner/MegatronBotPro">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YallicoOwner&repo=MegatronBotPro&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
