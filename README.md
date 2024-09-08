@@ -2,7 +2,7 @@
 
 ## hola 🤖 Bienvenido, te presento mi perfil ✨
 
-<p align="center"><img title="Yallico" src="https://qu.ax/uyZw.jpg"></p>
+<p align="center"><img title="Yallico" src="https://qu.ax/YxZp.mp4"></p>
 
 <p align="center">
 <img src="https://telegra.ph/file/484bdb77d39e0487a43b3.jpg" alt="MegatronBotPro" width="900"/>
